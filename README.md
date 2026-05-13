@@ -79,15 +79,13 @@ I like understanding structure, logic and how technology fits into everyday use.
 ### Tools & Environments
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,linux" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Visual_Studio-77DD77?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IntelliJ-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-98FB98?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux%20(Ubuntu)-77DD77?style=for-the-badge"/>
 </p>
 
