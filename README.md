@@ -58,7 +58,7 @@ I like understanding structure, logic and how technology fits into everyday use.
   <img src="https://img.shields.io/badge/CSS-FF69B4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-77DD77?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bootstrap-98FB98?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React%20Native-FFB6C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge"/>
 </p>
 
 ---
