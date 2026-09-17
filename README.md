@@ -19,14 +19,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ephratha&bg_color=ffffff&color=FF69B4&line=77DD77&point=FFB6C1&area=true&hide_border=true"/>
 </p>
-
-<p align="center">──────────────────────── ♡ ────────────────────────</p>
-
-## Contact
-
-<p align="center">
-  <a href="mailto:ephratameharii@gmail.com">
-    <img src="https://img.shields.io/badge/ephratameharii%40gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white&label=Email&labelColor=77DD77"/>
-  </a>
-
-</p>
